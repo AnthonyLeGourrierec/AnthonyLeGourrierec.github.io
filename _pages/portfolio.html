@@ -7,8 +7,88 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- Portfolio Grid with Cards -->
+<div class="portfolio-grid">
+  {% for post in site.portfolio %}
+  <div class="portfolio-card">
+    <a href="{{ post.url | relative_url }}" class="portfolio-link">
+      <!-- Card Image -->
+      <div class="portfolio-image">
+        {% if post.image %}
+        <img src="{{ post.image }}" alt="{{ post.title }} Thumbnail" />
+        {% else %}
+        <img src="/images/default-thumbnail.png" alt="Default Thumbnail" />
+        {% endif %}
+      </div>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+      <!-- Card Content -->
+      <div class="portfolio-content">
+        <h3>{{ post.title }}</h3>
+        <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
+      </div>
+    </a>
+  </div>
+  {% endfor %}
+</div>
 
+<!-- Custom CSS for Card Layout -->
+<style>
+  .portfolio-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .portfolio-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    flex: 1 1 calc(33% - 40px);
+    max-width: calc(33% - 40px);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .portfolio-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  .portfolio-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .portfolio-content {
+    padding: 15px;
+  }
+
+  .portfolio-content h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+
+  .portfolio-content p {
+    color: #666;
+    font-size: 14px;
+  }
+
+  @media (max-width: 768px) {
+    .portfolio-card {
+      flex: 1 1 calc(50% - 40px);
+      max-width: calc(50% - 40px);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .portfolio-card {
+      flex: 1 1 100%;
+      max-width: 100%;
+    }
+  }
+</style>
