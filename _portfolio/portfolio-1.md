@@ -1,6 +1,6 @@
 ---
 
-title: "Margoulean Fake Beverage Brand"
+title: "Margoulean Fictionnal Beverage Brand"
 excerpt: "A fun English class project showcasing web development and 3D product animation skills."
 collection: portfolio
 layout: single
