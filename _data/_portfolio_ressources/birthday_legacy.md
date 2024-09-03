@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Digital Paintings with LoRA"
 excerpt: "An AI project using Stable Diffusion 1.5 to create personalized digital paintings for a birthday gift."
-collection: portfolio
+collection: portfolio_legacy
 layout: single
 date: 2023-09-29
 tags: [AI, Machine Learning, Stable Diffusion, LoRA, Digital Art]

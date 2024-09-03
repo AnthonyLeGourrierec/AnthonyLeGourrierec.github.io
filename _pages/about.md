@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my professional website. I am Anthony Le Gourriérec, an aspiring digital imaging specialist. Currently, I am interning at Interdigital R&D France in Rennes, France, working in the XR over wireless team, where I conduct research on 3D scene elasticity.
+Hello, I'm Anthony Le Gourriérec, a computer science engineer specializing in digital imaging. After completing my end-of-study internship at Interdigital R&D France in Rennes and graduating from ESIR (École Supérieure d’Ingénieur de Rennes), I'm eager to begin my professional career. I'm currently seeking opportunities in XR, AI imaging, or 3D and digital imaging, preferably near Rennes, but I'm also open to relocating for the right opportunity.
 
-As my internship comes to an end, along with my studies at ESIR (École Supérieure d’Ingénieur de Rennes), I am seeking new opportunities. I am looking for positions in XR, AI imaging, or more generally in digital imaging near Rennes, but I am also open to relocating across Europe or Canada for the right role.
+My passion for digital imaging began over 15 years ago, sparked by watching videos on YouTube. This curiosity led me to explore everything from 3D animation and photo montage on my family’s computer to, more recently, developing extended reality applications, AI-generated imagery, and photography. This passion guided me through my engineering studies and fueled my latest research internship, where I contributed to two patents on 3D scene adaptation—an achievement that reflects my dedication and commitment to the field.
 
-On this website, you will find a wealth of information about me, providing insight into my professional and personal interests and capabilities. If you are interested in my profile, please do not hesitate to contact me on LinkedIn or by email. I will be more than happy to respond to your inquiries. Have a great read!
+If you’re intrigued by my profile, feel free to explore my [resume](/cv/) and [projects](/portfolio/). I'm always open to new opportunities and connections, so don't hesitate to reach out on [LinkedIn](https://www.linkedin.com/in/anthonylegourrierec) or via [email](mailto:anthonylegourrierec@gmail.com). I look forward to hearing from you!

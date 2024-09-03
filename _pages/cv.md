@@ -70,22 +70,22 @@ Service and leadership
 * Currently signed in to 43 different slack teams -->
 
 # Anthony Le Gourriérec
-Aspiring digital imaging specialist with a strong focus on XR and AI.
-Currently seeking opportunities near Rennes but open to relocating across Europe or Canada for the right role.
+Computer science engineer specializing in digital imaging, seeking opportunities in XR, AI imaging, or more generally 3D and digital imaging, preferably near Rennes, but I'm also open to relocating for the right opportunity.
 
 ## Experience
 
 ### Interdigital, Rennes, France
 **Extended Reality R&I Intern**  
 *March - August 2024*
-- Conducted XR elasticity research within the XR over wireless team, contributing to multiple patents and potential future standardization in MPEG-I SD and 3GPP SA4.
+- Conducted XR elasticity research within the XR over wireless team, contributing to two patents on 3D scene adaptation.
 - Developed a Unity 3D demonstrator to showcase XR elasticity research on a test bed.
 
 ### Fraunhofer IPK, Berlin, Germany
 **Applied Research Intern**  
 *June - September 2023*
-- Conducted field interviews to gather data on ontology engineers’ needs, resulting in an XR demonstrator that improved communication between ontology engineers and non-specialists.
 - Collaborated on a study team to collect data on CAD modeling schematics interpretation errors, leading to the development of an XR demonstrator that reduced these errors.
+- Conducted field interviews to gather data on ontology engineers’ needs, resulting in an XR demonstrator that improved communication between ontology engineers and non-specialists.
+- Developed a demonstrator video showcasing the real-world application of an AR ontology visualization tool, bridging the gap between ontology specialists' perspectives and the tool's utility.
 
 ### Feldrise, Rennes, France
 **Technology Officer Intern**  
