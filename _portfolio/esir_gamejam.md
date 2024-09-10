@@ -1,27 +1,29 @@
 ---
-layout: single  # Update with your specific layout name
-title: "The last apagnan"
-excerpt: "A puzzle card game made with friends during a gamejam organized at our school"
+layout: single
+title: "The Last Apagnan"
+excerpt: "A puzzle card game made with friends during a game jam organized at our school, and the winning entry of the event!"
 collection: portfolio
-date: 2024-01-01  # Project completion date
-tags: [Tag1, Tag2, Tag3]  # Relevant tags for the project (e.g., Dev, VR, Photography)
-technologies: [Technology1, Technology2, Technology3]  # List of technologies/tools used
-role: "Your Role"  # Your role in the project (e.g., Developer, Photographer, Researcher)
-featured_image: /assets/images/project-title-cover.jpg  # Path to the cover image for the project
-hidden: true
+date: 2024-04-07
+tags: [Game Development, Unity, Game Jam, Puzzle, 2.5D]
+technologies: [Unity, FL Studio, Procreate, GitHub, Google Drive]
+role: "Developer"
+image: "/images/apagnan/cover.png"
+hidden: false
 ---
 
 ## Overview
 
-Provide a concise overview of the project, including its main goal and purpose. Highlight the context or problem it addresses and the solution you developed.
+**The Last Apagnan** is a game created in 48 hours for the ESIR 2024 Game Jam with the theme "Choose your end." It was the **winning game** of the event, showcasing the team’s creativity and technical skills under pressure.
+
+In this game, you play as a druid in search of the last Apagnan. Venturing into the ruins of an ancient civilization, you are armed with a deck of magic cards to help you on your quest. The game was a collaborative project between four friends with various skills in development, art, and sound design.
 
 **Key Skills Demonstrated:**
 
-- **Skill 1**: Brief explanation of how this skill was applied in the project.
-- **Skill 2**: Brief explanation of how this skill was applied in the project.
-- **Skill 3**: Brief explanation of how this skill was applied in the project.
+- **Game Development**: Created a fully functional game using Unity within a 48-hour deadline.
+- **Project Management**: Managed the project timeline, organized tasks, and ensured seamless collaboration.
+- **Team Collaboration**: Coordinated with developers, artists, and sound designers to successfully bring the game to life.
 
-**Technologies Used:** Technology1, Technology2, Technology3
+**Technologies Used:** Unity, FL Studio, Procreate, GitHub, Google Drive
 
 ---
 
@@ -29,49 +31,65 @@ Provide a concise overview of the project, including its main goal and purpose. 
 
 ### Key Features
 
-- **Feature 1**: Brief description of a significant feature of the project.
-- **Feature 2**: Brief description of another significant feature.
-- **Feature 3**: Brief description of a third significant feature.
+- **2.5D Puzzle Gameplay**: A unique combination of 2D and 3D elements, created to challenge both the developers and the players.
+- **Magic Card Mechanics**: Players use a deck of magic cards to interact with the environment and solve puzzles.
+- **Handcrafted Assets**: Every game asset, except for the font, was created from scratch, contributing to the unique feel of the game.
 
 ### Achievements
 
-- **Achievement 1**: Brief description of a notable achievement.
-- **Achievement 2**: Brief description of another achievement.
-- **Achievement 3**: Brief description of a third achievement.
+- **Winner of ESIR 2024 Game Jam**: The game was awarded first place in the game jam, showcasing the team's ability to deliver a polished and creative project within the time limit.
+- **Collaborative Success**: The team executed a well-coordinated process from brainstorming to final presentation, resulting in a well rounded project.
+- **Creative Challenge**: The team chose a 2.5D format as a challenge, despite the group’s prior experience being limited to either 2D or 3D.
 
 ### Results
 
-Summarize the key outcomes of the project. Include any measurable results or impacts achieved.  
-Provide visual evidence to support the outcomes, such as charts, screenshots, or before-and-after comparisons.
+The final game, **The Last Apagnan**, won the ESIR 2024 Game Jam, demonstrating the team's skill in rapid game development and creative problem-solving. The 2.5D design and handcrafted assets, along with the unique card mechanics, helped the game stand out from the competition.
 
-![Result Visualization 1](/assets/images/result-visualization1.jpg)  
-![Result Visualization 2](/assets/images/result-visualization2.jpg)
+You can play the game here:  
+[Play The Last Apagnan](https://althior.itch.io/the-last-apagnan)
+
+You can listen to the soundtrack here:  
+[Listen to The Last Apagnan OST](https://distrokid.com/hyperfollow/grutce/the-last-apagnan-feat-antholmd-althior--jilya)
 
 ---
 
 ## Visual Gallery
 
-Include a gallery of images or videos that showcase the project in its final state. Highlight different aspects of the project with high-quality visuals.
+Here are some visuals that showcase the different aspects of **The Last Apagnan**, highlighting its 2.5D gameplay and the handcrafted assets.
 
 <div class="gallery">
-  <a href="/assets/images/project-image1.jpg"><img src="/assets/images/project-image1.jpg" alt="Project Image 1"></a>
-  <a href="/assets/images/project-image2.jpg"><img src="/assets/images/project-image2.jpg" alt="Project Image 2"></a>
-  <a href="/assets/images/project-image3.jpg"><img src="/assets/images/project-image3.jpg" alt="Project Image 3"></a>
+  <a href="/images/apagnan/cover.png"><img src="/images/apagnan/cover.png" alt="Project Image 0"></a>
+  <a href="/images/apagnan/title_screen.png"><img src="/images/apagnan/title_screen.png" alt="Project Image 1"></a>
+  <a href="/images/apagnan/level_1.png"><img src="/images/apagnan/level_1.png" alt="Project Image 2"></a>
+  <a href="/images/apagnan/level_2.png"><img src="/images/apagnan/level_2.png" alt="Project Image 3"></a>
+  <a href="/images/apagnan/congrats.png"><img src="/images/apagnan/congrats.png" alt="Project Image 4"></a>
   <!-- Add more images as needed -->
 </div>
+
+
+
+---
+
+## Credits
+
+This project was a collaborative effort between a group of friends, each contributing their unique skills to bring the game to life:
+
+- **Kilian Marcelin**: Project Manager and Developer
+- **Anthony Le Gourrierec**: Developer
+- **Julie Batsalle**: Artist
+- **Mathys Geogeais**: Composer and Sound Designer
 
 ---
 
 ## Closing Thoughts
 
-Reflect briefly on the project as a completed work. Emphasize its success and impact, and mention any recognition it received (e.g., awards, user testimonials).  
-Reiterate the skills and expertise demonstrated through this project.
+**The Last Apagnan** was a huge success, winning the ESIR 2024 Game Jam. The project demonstrated the team’s ability to come together, brainstorm effectively, and execute a polished prototype under tight time constraints. The team's choice to work with 2.5D mechanics pushed the boundaries of their previous experience, making the win even more rewarding.
 
 ---
 
 ## Call to Action
 
-Interested in learning more about this project or collaborating? [Contact me](/contact) or explore [more of my projects](/portfolio/).
+Interested in learning more about this project or collaborating on a future game? [Contact me](/contact) or explore [more of my projects](/portfolio/).
 
 <style>
 .gallery {
@@ -100,6 +118,3 @@ Interested in learning more about this project or collaborating? [Contact me](/c
   border-radius: 5px;
 }
 </style>
-
----
-
