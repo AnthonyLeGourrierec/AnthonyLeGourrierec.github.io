@@ -26,7 +26,7 @@ author:
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Computer science engineer specializing in digital imaging. 3D, XR, and AI enjoyer. Passionate about innovation, photography, and blending new technologies with creativity."
   location         : "Rennes, France"
-  employer         : "Interdigital R&D France"
+  employer         : #"Interdigital R&D France"
   uri              : # URL
   email            : "anthonylegourrierec@gmail.com" 
 

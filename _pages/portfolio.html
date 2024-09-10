@@ -9,7 +9,10 @@ author_profile: true
 
 <!-- Portfolio Grid with Cards -->
 <div class="portfolio-grid">
-  {% for post in site.portfolio %}
+  <!-- Loop through portfolio items, exclude hidden ones -->
+  {% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
+  {% for post in sorted_portfolio %}
+  {% unless post.hidden %}
   <div class="portfolio-card">
     <a href="{{ post.url | relative_url }}" class="portfolio-link">
       <!-- Card Image -->
@@ -28,8 +31,10 @@ author_profile: true
       </div>
     </a>
   </div>
+  {% endunless %}
   {% endfor %}
 </div>
+
 
 <!-- Custom CSS for Card Layout -->
 <style>
