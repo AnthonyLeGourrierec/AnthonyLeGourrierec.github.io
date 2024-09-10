@@ -8,6 +8,7 @@ tags: [Web Development, 3D Animation, School Project, Portfolio]
 image: "/images/margoulean/margoulean.png"
 role: "Web Developer & 3D Animator"  # Your roles in the project
 technologies: [HTML, CSS, JavaScript, Blender]  # Tools and technologies used
+hidden: false
 ---
 
 ## Overview

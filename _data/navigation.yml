@@ -21,3 +21,6 @@ main:
   #- title: "Page Guide"
   #  url: /markdown/
 
+  - title: "Contact"
+    url: "/contact/"
+
