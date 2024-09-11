@@ -87,8 +87,6 @@ This project was a collaborative effort between a group of friends, each contrib
 
 ---
 
-## Call to Action
-
 Interested in learning more about this project or collaborating on a future game? [Contact me](/contact) or explore [more of my projects](/portfolio/).
 
 <style>
