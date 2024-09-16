@@ -1,77 +1,124 @@
 ---
-layout: single  # Update with your specific layout name
-title: "Project Title"
-excerpt: "Short Description or Tagline of the Project"
+layout: single
+title: "3D Render Gallery"
+excerpt: "A collection of 3D renders showcasing my progression from high school to now."
+date: 2020-07-01
 collection: portfolio
-date: 2024-01-01  # Project completion date
-tags: [Tag1, Tag2, Tag3]  # Relevant tags for the project (e.g., Dev, VR, Photography)
-technologies: [Technology1, Technology2, Technology3]  # List of technologies/tools used
-role: "Your Role"  # Your role in the project (e.g., Developer, Photographer, Researcher)
-featured_image: /assets/images/project-title-cover.jpg  # Path to the cover image for the project
-hidden: true  # Add this line to hide the project
+tags: [3D Rendering, 3D Modeling, Gallery]
+image: "/images/3D_renders/1.png"  # Path to your cover image
+hidden: false
 ---
 
 ## Overview
 
-Provide a concise overview of the project, including its main goal and purpose. Highlight the context or problem it addresses and the solution you developed.
+My journey into 3D started around 15 years ago with **Cinema 4D** on my family’s computer. Back then, I mainly recreated YouTube intro tutorials, but I don't have any renders from that period. After taking a long break, I got back into 3D modeling in high school then switched to **Blender**, learning the fundamentals of modeling, shading, lighting, UV mapping, and texturing through tutorials and online courses. These skills have proven invaluable in group projects during engineering school, where I often created assets for **Unity** projects and experiments.
 
-**Key Skills Demonstrated:**
-
-- **Skill 1**: Brief explanation of how this skill was applied in the project.
-- **Skill 2**: Brief explanation of how this skill was applied in the project.
-- **Skill 3**: Brief explanation of how this skill was applied in the project.
-
-**Technologies Used:** Technology1, Technology2, Technology3
+This gallery showcases a collection of 3D renders, spanning from my early high school projects to recent work, and highlights my progression in 3D skills over the years.
 
 ---
 
-## Project Highlights
+## 3D Render Gallery
 
-### Key Features
-
-- **Feature 1**: Brief description of a significant feature of the project.
-- **Feature 2**: Brief description of another significant feature.
-- **Feature 3**: Brief description of a third significant feature.
-
-### Achievements
-
-- **Achievement 1**: Brief description of a notable achievement.
-- **Achievement 2**: Brief description of another achievement.
-- **Achievement 3**: Brief description of a third achievement.
-
-### Results
-
-Summarize the key outcomes of the project. Include any measurable results or impacts achieved.  
-Provide visual evidence to support the outcomes, such as charts, screenshots, or before-and-after comparisons.
-
-![Result Visualization 1](/assets/images/result-visualization1.jpg)  
-![Result Visualization 2](/assets/images/result-visualization2.jpg)
-
----
-
-## Visual Gallery
-
-Include a gallery of images or videos that showcase the project in its final state. Highlight different aspects of the project with high-quality visuals.
+Below is a selection of my 3D renders. Click on any image or video to view it in full size.
 
 <div class="gallery">
-  <a href="/assets/images/project-image1.jpg"><img src="/assets/images/project-image1.jpg" alt="Project Image 1"></a>
-  <a href="/assets/images/project-image2.jpg"><img src="/assets/images/project-image2.jpg" alt="Project Image 2"></a>
-  <a href="/assets/images/project-image3.jpg"><img src="/assets/images/project-image3.jpg" alt="Project Image 3"></a>
-  <!-- Add more images as needed -->
+  <!-- First Image (Full Width) -->
+  <a href="/images/3D_renders/1.png" class="first-item">
+    <img src="/images/3D_renders/1.png" alt="3D Render 1" style="width:100%">
+  </a>
+
+  <!-- Remaining Items (Two per row) -->
+  <a href="/images/3D_renders/2.png">
+    <img src="/images/3D_renders/2.png" alt="3D Render 2" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/3.png">
+    <img src="/images/3D_renders/3.png" alt="3D Render 3" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/4.png">
+    <img src="/images/3D_renders/4.png" alt="3D Render 4" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/5.png">
+    <img src="/images/3D_renders/5.png" alt="3D Render 5" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/6.png">
+    <img src="/images/3D_renders/6.png" alt="3D Render 6" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/7.png">
+    <img src="/images/3D_renders/7.png" alt="3D Render 7" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/8.jpg">
+    <img src="/images/3D_renders/8.jpg" alt="3D Render 8" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/9.png">
+    <img src="/images/3D_renders/9.png" alt="3D Render 9" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/10.png">
+    <img src="/images/3D_renders/10.png" alt="3D Render 10" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/11.png">
+    <img src="/images/3D_renders/11.png" alt="3D Render 11" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/12.png">
+    <img src="/images/3D_renders/12.png" alt="3D Render 12" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/13.png">
+    <img src="/images/3D_renders/13.png" alt="3D Render 13" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/14.png">
+    <img src="/images/3D_renders/14.png" alt="3D Render 14" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/15.jpg">
+    <img src="/images/3D_renders/15.jpg" alt="3D Render 15" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/16.jpg">
+    <img src="/images/3D_renders/16.jpg" alt="3D Render 16" style="width:100%">
+  </a>
+
+  <!-- GIF Image Items -->
+  <a href="/images/3D_renders/a1.gif">
+    <img src="/images/3D_renders/a1.gif" alt="3D Render GIF 1" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/a2.gif">
+    <img src="/images/3D_renders/a2.gif" alt="3D Render GIF 2" style="width:100%">
+  </a>
+  <a href="/images/3D_renders/a3.gif">
+    <img src="/images/3D_renders/a3.gif" alt="3D Render GIF 3" style="width:100%">
+  </a>
+
+  <!-- MP4 Video Items -->
+  <div class="video-item">
+    <video controls loop style="width: 100%;">
+      <source src="/images/3D_renders/a4.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div class="video-item">
+    <video controls loop style="width: 100%;">
+      <source src="/images/3D_renders/a5.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
 </div>
 
 ---
 
-## Closing Thoughts
+## Equipment and Techniques
 
-Reflect briefly on the project as a completed work. Emphasize its success and impact, and mention any recognition it received (e.g., awards, user testimonials).  
-Reiterate the skills and expertise demonstrated through this project.
+Throughout my 3D journey, I’ve worked with various tools and techniques to bring my ideas to life:
+
+- **Software**: Blender, Cinema 4D
+- **Techniques**: Modeling, Shading, Lighting, UV Mapping, Texturing
+- **Skills**: Fast asset creation for game development, mainly low-poly models.
+
+I continue to refine my skills by applying them in diverse contexts, from personal projects to collaborative work in my engineering studies.
 
 ---
 
-## Call to Action
+## Conclusion
 
-Interested in learning more about this project or collaborating? [Contact me](/contact) or explore [more of my projects](/portfolio/).
+This gallery represents my evolution as a 3D artist, from learning basic tools in high school to applying my skills in more complex environments. 3D modeling has been an integral part of my personal and professional growth, helping me contribute creatively to projects and develop an eye for detail and design.
+
+If you'd like to see more of my 3D renders or discuss potential collaborations, feel free to [contact me](/contact) or explore [more of my portfolio](/portfolio/).
 
 <style>
 .gallery {
@@ -81,7 +128,7 @@ Interested in learning more about this project or collaborating? [Contact me](/c
 }
 
 .gallery a {
-  flex: 1 1 calc(33% - 10px);
+  flex: 1 1 calc(50% - 10px);
   box-sizing: border-box;
   display: block;
   overflow: hidden;
@@ -93,13 +140,24 @@ Interested in learning more about this project or collaborating? [Contact me](/c
   transform: scale(1.05);
 }
 
+.gallery .first-item {
+  flex: 1 1 100%;
+}
+
 .gallery img {
   width: 100%;
   height: auto;
   display: block;
   border-radius: 5px;
 }
+
+.video-item {
+  flex: 1 1 100%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+video {
+  border-radius: 5px;
+}
 </style>
-
----
-
