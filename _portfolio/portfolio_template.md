@@ -3,11 +3,11 @@ layout: single  # Update with your specific layout name
 title: "Project Title"
 excerpt: "Short Description or Tagline of the Project"
 collection: portfolio
-date: 2023-04-01  # Project completion date
+date: 2024-01-01  # Project completion date
 tags: [Tag1, Tag2, Tag3]  # Relevant tags for the project (e.g., Dev, VR, Photography)
 technologies: [Technology1, Technology2, Technology3]  # List of technologies/tools used
 role: "Your Role"  # Your role in the project (e.g., Developer, Photographer, Researcher)
-image: /assets/images/project-title-cover.jpg  # Path to the cover image for the project
+image: /images/project-title-cover.jpg  # Path to the cover image for the project
 hidden: true  # Add this line to hide the project
 ---
 
