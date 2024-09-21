@@ -27,8 +27,8 @@ Below is a selection of my macro photography work. Click on any image to view it
   <a href="/images/macro/IMG_8615.jpg">
     <img src="/images/macro/IMG_8615.jpg" alt="Macro Photo 2" style="width:100%">
   </a>
-  <a href="/images/macro/IMG_8663.jpg">
-    <img src="/images/macro/IMG_8663.jpg" alt="Macro Photo 3" style="width:100%">
+  <a href="/images/macro/IMG_8663-3.jpg">
+    <img src="/images/macro/IMG_8663-3.jpg" alt="Macro Photo 3" style="width:100%">
   </a>
   <a href="/images/macro/IMG_9003.jpg">
     <img src="/images/macro/IMG_9003.jpg" alt="Macro Photo 4" style="width:100%">
@@ -54,6 +54,24 @@ Below is a selection of my macro photography work. Click on any image to view it
   <a href="/images/macro/IMG_9079.jpg">
     <img src="/images/macro/IMG_9079.jpg" alt="Macro Photo 11" style="width:100%">
   </a>
+    <a href="/images/macro/IMG_9091.jpg">
+    <img src="/images/macro/IMG_9091.jpg" alt="Macro Photo 11" style="width:100%">
+  </a>
+  <a href="/images/macro/IMG_9195.jpg">
+    <img src="/images/macro/IMG_9195.jpg" alt="Macro Photo 11" style="width:100%">
+  </a>
+    <a href="/images/macro/IMG_9198.jpg">
+    <img src="/images/macro/IMG_9198.jpg" alt="Macro Photo 11" style="width:100%">
+  </a>
+    <a href="/images/macro/IMG_9200.jpg">
+    <img src="/images/macro/IMG_9200.jpg" alt="Macro Photo 11" style="width:100%">
+  </a>
+    <a href="/images/macro/IMG_9233.jpg">
+    <img src="/images/macro/IMG_9233.jpg" alt="Macro Photo 11" style="width:100%">
+  </a>
+    <a href="/images/macro/IMG_9457.jpg">
+    <img src="/images/macro/IMG_9457.jpg" alt="Macro Photo 11" style="width:100%">
+  </a>
   <a href="/images/macro/IMG_9564.jpg">
     <img src="/images/macro/IMG_9564.jpg" alt="Macro Photo 12" style="width:100%">
   </a>
@@ -62,6 +80,21 @@ Below is a selection of my macro photography work. Click on any image to view it
   </a>
   <a href="/images/macro/IMG_9606.jpg">
     <img src="/images/macro/IMG_9606.jpg" alt="Macro Photo 14" style="width:100%">
+  </a>
+  <a href="/images/macro/IMG_9714.jpg">
+    <img src="/images/macro/IMG_9714.jpg" alt="Macro Photo 15" style="width:100%">
+  </a>
+  <a href="/images/macro/IMG_9759_crop.jpg">
+    <img src="/images/macro/IMG_9759_crop.jpg" alt="Macro Photo 16" style="width:100%">
+  </a>
+  <a href="/images/macro/IMG_9771.jpg">
+    <img src="/images/macro/IMG_9771.jpg" alt="Macro Photo 17" style="width:100%">
+  </a>
+  <a href="/images/macro/IMG_9778.jpg">
+    <img src="/images/macro/IMG_9778.jpg" alt="Macro Photo 18" style="width:100%">
+  </a>
+  <a href="/images/macro/IMG_9788_crop2.jpg">
+    <img src="/images/macro/IMG_9788_crop2.jpg" alt="Macro Photo 19" style="width:100%">
   </a>
 </div>
 
@@ -95,12 +128,16 @@ If you'd like to see more of my work or get in touch, feel free to [contact me](
 }
 
 .gallery a {
-  flex: 1 1 calc(33% - 10px);
+  flex: 1 1 calc(50% - 10px);  /* Display 2 items per row */
   box-sizing: border-box;
   display: block;
   overflow: hidden;
   border-radius: 5px;
   transition: transform 0.3s ease;
+}
+
+.gallery a:first-child {
+  flex: 1 1 100%;  /* Make the first image span the entire row */
 }
 
 .gallery a:hover {
