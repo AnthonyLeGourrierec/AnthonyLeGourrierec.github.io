@@ -15,11 +15,12 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-          {% if page.lang == "fr" %}
-          <li class="masthead__menu-item"><a href="{{ base_path }}{{ page.url | remove_first: '/fr' }}">English</a></li>
-          {% else %}
-          <li class="masthead__menu-item"><a href="{{ base_path }}/fr{{ page.url }}">Français</a></li>
-          {% endif %}
+          <li class="masthead__menu-item">
+            <select id="lang-switcher" onchange="window.location.href=this.value">
+              <option value="{{ base_path }}{{ page.url | remove_first: '/fr' }}" {% if page.lang == 'en' %}selected{% endif %}>🇬🇧 English</option>
+              <option value="{{ base_path }}/fr{{ page.url | remove_first: '/fr' }}" {% if page.lang == 'fr' %}selected{% endif %}>🇫🇷 Français</option>
+            </select>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
