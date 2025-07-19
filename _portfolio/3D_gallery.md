@@ -4,6 +4,7 @@ title: "3D Render Gallery"
 excerpt: "A collection of 3D renders showcasing my progression from high school to now."
 date: 2020-07-01
 collection: portfolio
+lang: en
 tags: [3D Rendering, 3D Modeling, Gallery]
 image: "/images/3D_renders/1.png"  # Path to your cover image
 hidden: false

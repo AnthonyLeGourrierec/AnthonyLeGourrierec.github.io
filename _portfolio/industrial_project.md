@@ -3,6 +3,7 @@ layout: single  # Update with your specific layout name
 title: "Fragments: A VR Educational Experience for University of Rennes"
 excerpt: "An immersive VR application prototype to contextualize artifacts from the University of Rennes' collection."
 collection: portfolio
+lang: en
 date: 2024-02-15  # Project completion date
 tags: [VR, Unity, Blender, Education]
 technologies: [Unity3D, OpenXR, Blender, GitHub, Discord, Microsoft Teams]

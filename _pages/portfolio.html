@@ -2,6 +2,7 @@
 layout: archive
 title: "Portfolio"
 permalink: /portfolio/
+lang: en
 author_profile: true
 ---
 
@@ -10,9 +11,11 @@ author_profile: true
 <!-- Portfolio Grid with Cards -->
 <div class="portfolio-grid">
   <!-- Loop through portfolio items, exclude hidden ones -->
-  {% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
+  {% assign extra_portfolio = site.pages | where: "collection", "portfolio" %}
+  {% assign all_portfolio = site.portfolio | concat: extra_portfolio %}
+  {% assign sorted_portfolio = all_portfolio | sort: 'date' | reverse %}
   {% for post in sorted_portfolio %}
-  {% unless post.hidden %}
+  {% if post.lang == 'en' and post.hidden != true %}
   <div class="portfolio-card">
     <a href="{{ post.url | relative_url }}" class="portfolio-link">
       <!-- Card Image -->
@@ -31,7 +34,7 @@ author_profile: true
       </div>
     </a>
   </div>
-  {% endunless %}
+  {% endif %}
   {% endfor %}
 </div>
 

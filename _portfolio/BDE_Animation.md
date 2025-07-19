@@ -3,6 +3,7 @@ layout: single
 title: "Student association 3D Animations for events"
 excerpt: "A collection of 3D rendered animations produced for student association events."
 collection: portfolio
+lang: en
 date: 2023-04-01
 tags: [3D Rendering, Blender, Event Promotion, Animation]
 technologies: [Blender, 3D Modeling, Animation]

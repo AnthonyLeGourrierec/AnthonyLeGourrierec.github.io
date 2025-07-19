@@ -4,6 +4,7 @@ title: "Margoulean Fictional Beverage Brand"
 excerpt: "A fun English class project showcasing web development and 3D product animation skills."
 date: 2023-08-26  # Project completion date
 collection: portfolio
+lang: en
 tags: [Web Development, 3D Animation, School Project, Portfolio]
 image: "/images/margoulean/margoulean.png"
 role: "Web Developer & 3D Animator"  # Your roles in the project

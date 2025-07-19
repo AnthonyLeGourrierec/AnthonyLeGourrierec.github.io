@@ -2,6 +2,7 @@
 layout: archive
 title: "Contact"
 permalink: /contact/
+lang: en
 author_profile: true
 ---
 {% include base_path %}

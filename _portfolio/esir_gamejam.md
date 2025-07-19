@@ -3,6 +3,7 @@ layout: single
 title: "The Last Apagnan"
 excerpt: "A puzzle card game made with friends during a game jam organized at our school, and the winning entry of the event!"
 collection: portfolio
+lang: en
 date: 2024-04-07
 tags: [Game Development, Unity, Game Jam, Puzzle, 2.5D]
 technologies: [Unity, FL Studio, Procreate, GitHub, Google Drive]

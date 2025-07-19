@@ -4,6 +4,7 @@ title: "Macro Photography Gallery"
 excerpt: "A collection of macro photography shots, capturing the intricate details of the natural world."
 date: 2024-04-21  # You can set the appropriate date
 collection: portfolio
+lang: en
 tags: [Photography, Macro Photography, Gallery]
 image: "/images/macro/IMG_8615.jpg"  # Path to your cover image
 hidden: false

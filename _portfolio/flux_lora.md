@@ -3,6 +3,7 @@ layout: single  # Update with your specific layout name
 title: "Training a LoRA on FLUX for Personal Image Generation"
 excerpt: "Exploring the potential of FLUX, an open-source model, by training a LoRA with my own photos."
 collection: portfolio
+lang: en
 date: 2024-09-24  # Project completion date
 tags: [AI, FLUX, LoRA, StableDiffusion]
 technologies: [FLUX, ComfyUI, Civit AI]

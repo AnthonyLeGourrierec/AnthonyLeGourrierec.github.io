@@ -1,5 +1,6 @@
 ---
 permalink: /non-menu-page/
+lang: en
 title: "Page not in menu"
 author_profile: true
 redirect_from: 
