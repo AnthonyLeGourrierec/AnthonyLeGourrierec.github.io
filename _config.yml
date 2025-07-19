@@ -24,10 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Anthony Le Gourriérec"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Computer science engineer specializing in digital imaging, passionate about 3D, XR, AI, photography, and innovation. I enjoy blending new technologies with creativity."
-  location         : "Rennes, France"
-  employer         : #"Interdigital R&D France"
-  uri              : # URL
+  bio: "PhD Student in XR & Urban Lighting Perception · Digital Imaging Engineer · Passionate about immersive tech, light, and visual storytelling through 3D, XR, and photography."
+
+  location         : "Nantes, France"
+  employer         : "L'observatoire De La Nuit"
+  uri              : #
   email            : "anthonylegourrierec@gmail.com" 
 
   # Academic websites
