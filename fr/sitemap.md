@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Sitemap"
-permalink: /sitemap/
-lang: en
+permalink: /fr/sitemap/
+lang: fr
 author_profile: true
 ---
 

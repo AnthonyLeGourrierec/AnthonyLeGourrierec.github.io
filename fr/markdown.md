@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-lang: en
+permalink: /fr/markdown/
+lang: fr
 title: "Markdown"
 author_profile: true
 redirect_from: 

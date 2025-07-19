@@ -1,6 +1,6 @@
 ---
-permalink: /terms/
-lang: en
+permalink: /fr/terms/
+lang: fr
 title: "Terms and Privacy Policy"
 modified: 2016-06-06
 ---

@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Contact"
-permalink: /contact/
-lang: en
+permalink: /fr/contact/
+lang: fr
 author_profile: true
 ---
 {% include base_path %}

@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
-lang: en
+permalink: /fr/cv/
+lang: fr
 author_profile: true
 redirect_from:
   - /resume

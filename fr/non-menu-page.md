@@ -1,6 +1,6 @@
 ---
-permalink: /non-menu-page/
-lang: en
+permalink: /fr/non-menu-page/
+lang: fr
 title: "Page not in menu"
 author_profile: true
 redirect_from: 

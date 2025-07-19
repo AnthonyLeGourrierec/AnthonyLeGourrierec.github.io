@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
-lang: en
+permalink: /fr/publications/
+lang: fr
 author_profile: true
 ---
 
