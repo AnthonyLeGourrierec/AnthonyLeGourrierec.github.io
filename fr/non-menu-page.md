@@ -1,17 +1,15 @@
 ---
 permalink: /fr/non-menu-page/
 lang: fr
-title: "Page not in menu"
+title: "Page hors menu"
 author_profile: true
-redirect_from: 
+redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+Cette page n'apparaît pas dans le menu. Vous pouvez y utiliser du markdown.
 
-Heading 1
-======
+# Titre 1
 
-Heading 2
-======
+## Titre 2
