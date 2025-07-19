@@ -9,9 +9,11 @@ author_profile: true
 
 <!-- Grille de projets -->
 <div class="portfolio-grid">
-  {% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
+  {% assign extra_portfolio = site.pages | where: "collection", "portfolio" %}
+  {% assign all_portfolio = site.portfolio | concat: extra_portfolio %}
+  {% assign sorted_portfolio = all_portfolio | sort: 'date' | reverse %}
   {% for post in sorted_portfolio %}
-  {% unless post.hidden %}
+  {% if post.lang == 'fr' and post.hidden != true %}
   <div class="portfolio-card">
     <a href="{{ post.url | relative_url }}" class="portfolio-link">
       <div class="portfolio-image">
@@ -27,7 +29,7 @@ author_profile: true
       </div>
     </a>
   </div>
-  {% endunless %}
+  {% endif %}
   {% endfor %}
 </div>
 
