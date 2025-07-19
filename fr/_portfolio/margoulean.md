@@ -1,10 +1,11 @@
 ---
 layout: single  # Ensure this matches the layout you're using in Jekyll
-title: "Margoulean Fictional Beverage Brand"
-excerpt: "A fun English class project showcasing web development and 3D product animation skills."
+title: "Margoulean : marque de boisson fictive"
+excerpt: "Projet amusant de cours d'anglais alliant développement web et animation 3D."
 date: 2023-08-26  # Project completion date
 collection: portfolio
-lang: en
+permalink: /fr/portfolio/margoulean/
+lang: fr
 tags: [Web Development, 3D Animation, School Project, Portfolio]
 image: "/images/margoulean/margoulean.png"
 role: "Web Developer & 3D Animator"  # Your roles in the project

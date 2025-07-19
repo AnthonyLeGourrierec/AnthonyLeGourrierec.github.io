@@ -1,9 +1,10 @@
 ---
 layout: single  # Ensure this matches the layout you're using in Jekyll
-title: "AI-Powered Digital Paintings with LoRA"
-excerpt: "Creating personalized digital paintings using AI and Stable Diffusion 1.5."
+title: "Peintures numériques générées par IA avec LoRA"
+excerpt: "Création de portraits personnalisés grâce à Stable Diffusion 1.5."
 collection: portfolio
-lang: en
+permalink: /fr/portfolio/birthday/
+lang: fr
 date: 2023-09-29  # Project completion date
 tags: [AI, Machine Learning, Stable Diffusion, LoRA, Digital Art]
 image: "/images/birthday/generated1.jpg"

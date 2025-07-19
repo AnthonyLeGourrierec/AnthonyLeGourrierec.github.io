@@ -1,9 +1,10 @@
 ---
 layout: single  # Update with your specific layout name
-title: "Project Title"
-excerpt: "Short Description or Tagline of the Project"
+title: "Titre du projet"
+excerpt: "Courte description ou slogan du projet"
 collection: portfolio
-lang: en
+permalink: /fr/portfolio/spookyTD/
+lang: fr
 date: 2024-01-01  # Project completion date
 tags: [Tag1, Tag2, Tag3]  # Relevant tags for the project (e.g., Dev, VR, Photography)
 technologies: [Technology1, Technology2, Technology3]  # List of technologies/tools used

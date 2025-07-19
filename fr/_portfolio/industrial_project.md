@@ -1,9 +1,10 @@
 ---
 layout: single  # Update with your specific layout name
-title: "Fragments: A VR Educational Experience for University of Rennes"
-excerpt: "An immersive VR application prototype to contextualize artifacts from the University of Rennes' collection."
+title: "Fragments : une expérience VR éducative pour l'Université de Rennes"
+excerpt: "Prototype d'application immersive visant à contextualiser les artefacts de la collection de l'Université de Rennes."
 collection: portfolio
-lang: en
+permalink: /fr/portfolio/industrial_project/
+lang: fr
 date: 2024-02-15  # Project completion date
 tags: [VR, Unity, Blender, Education]
 technologies: [Unity3D, OpenXR, Blender, GitHub, Discord, Microsoft Teams]

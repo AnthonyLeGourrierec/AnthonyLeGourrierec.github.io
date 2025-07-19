@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "AI-Generated Hybrid Animals and Realistic Pokémon Creations"
-excerpt: "Exploring AI workflows to blend real-world animals and create realistic Pokémon with compositional artistry."
+title: "Créatures hybrides générées par IA et Pokémon réalistes"
+excerpt: "Exploration de workflows IA pour mêler des animaux réels et créer des Pokémon réalistes."
 collection: portfolio
-lang: en
+permalink: /fr/portfolio/IA_creatures/
+lang: fr
 date: 2024-03-15
 tags: [AI, Generative Art, Stable Diffusion, ComfyUI]
 technologies: [ComfyUI, Stable Diffusion, IPAdapter, Canny Filter, Depth Map]

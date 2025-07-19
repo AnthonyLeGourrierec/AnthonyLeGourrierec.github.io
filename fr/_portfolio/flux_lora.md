@@ -1,9 +1,10 @@
 ---
 layout: single  # Update with your specific layout name
-title: "Training a LoRA on FLUX for Personal Image Generation"
-excerpt: "Exploring the potential of FLUX, an open-source model, by training a LoRA with my own photos."
+title: "Entraînement d'une LoRA sur FLUX pour la génération d'images personnelles"
+excerpt: "Expérimentation du modèle open source FLUX en l'entraînant sur mes propres photos."
 collection: portfolio
-lang: en
+permalink: /fr/portfolio/flux_lora/
+lang: fr
 date: 2024-09-24  # Project completion date
 tags: [AI, FLUX, LoRA, StableDiffusion]
 technologies: [FLUX, ComfyUI, Civit AI]
