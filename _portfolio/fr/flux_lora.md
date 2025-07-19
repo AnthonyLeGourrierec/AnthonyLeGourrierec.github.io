@@ -13,40 +13,35 @@ image: /images/flux/ComfyUI_00058_.png  # Path to the cover image for the projec
 hidden: false  # Add this line to hide the project
 ---
 
-## Overview
+## Aperçu
 
-FLUX is a new open-source model similar to Stable Diffusion, and I was eager to explore its capabilities. Given my computer's limitations for model training, I decided to use **Civit AI** to train a LoRA model using **25 captioned photos of myself**. This project aimed to evaluate the effectiveness of FLUX in generating both realistic and stylized images of my face by employing two distinct checkpoints with varying levels of training.
+FLUX est un nouveau modèle open source proche de Stable Diffusion que j'étais impatient de tester. Ne disposant pas d'un PC assez puissant pour l'entraînement, j'ai utilisé **Civit AI** afin de créer une LoRA à partir de **25 photos légendées de moi-même**. L'objectif était d'évaluer FLUX pour produire des images réalistes ou stylisées de mon visage via deux checkpoints différents.
 
-**Key Skills Demonstrated:**
+**Compétences mises en avant :**
 
-- **LoRA Model Training**: Trained a custom LoRA using Civit AI, experimenting with different checkpoints for a tailored results.
-- **Model Fine-Tuning**: Selected two different checkpoints, one for realism and one for stylization, balancing likeness with flexibility.
-- **ComfyUI Usage**: Set up and ran the FLUX dev model with the LoRA locally on my computer using ComfyUI.
+- **Entraînement de LoRA** : création d'un modèle personnalisé via Civit AI et tests de plusieurs checkpoints ;
+- **Ajustements du modèle** : choix de deux checkpoints, l'un réaliste et l'autre plus stylisé ;
+- **Utilisation de ComfyUI** : exécution locale du modèle FLUX couplé à la LoRA.
 
-**Technologies Used:** FLUX, ComfyUI, Civit AI
+**Technologies utilisées :** FLUX, ComfyUI, Civit AI
 
----
+## Points forts du projet
 
-## Project Highlights
+### Principales caractéristiques
 
-### Key Features
+- **Ressemblance réaliste** : premier checkpoint dédié à la reproduction fidèle de mon visage, légèrement surappris pour privilégier la ressemblance ;
+- **Génération stylisée** : second checkpoint plus flexible pour des rendus créatifs ;
+- **Workflow efficace malgré peu de ressources** : entraînement sur Civit AI puis exécution locale via ComfyUI.
 
-- **Realistic Likeness with FLUX**: The first LoRA checkpoint was optimized for realistic image generation, focusing on closely replicating my facial features. This was achieved through slightly overfitting the model to prioritize likeness.
-- **Stylized Generation**: The second LoRA checkpoint was trained with more flexibility, allowing for creative, stylized outputs that still captured the main features of my face but offered more artistic diversity.
-- **Efficient Workflow with Limited Resources**: Despite not having a powerful computer for training, I effectively utilized Civit AI's resources to handle the intensive LoRA training, and then ran the results locally using ComfyUI.
+### Réalisations
 
-### Achievements
+- **Surapprentissage maîtrisé** : obtention d'un modèle très réaliste reproduisant fidèlement les détails de mon visage ;
+- **Variété de rendus stylisés** : production d'images créatives montrant la polyvalence de FLUX ;
+- **Usage ingénieux des ressources** : appui sur Civit AI pour pallier le manque de puissance locale.
 
-- **Effective Overfitting**: Successfully created a highly realistic version of the LoRA that captured fine details of my face, allowing for accurate representation in image generations.
-- **Creative Flexibility**: Developed a more flexible LoRA checkpoint, which enabled artistic and stylized variations of my face while still retaining key identifying features.
-- **Resourceful Setup**: Overcame hardware limitations by using external resources for training while running the final model locally.
+### Résultats
 
-### Results
-
-The project demonstrated the capabilities of FLUX in both realistic and stylized image generation. By experimenting with overfitting and underfitting, I was able to strike a balance between realism and creativity, with the following outcomes:
-
-- **Increased Likeness**: The overfitted model generated highly realistic images, particularly challenging when creating self-images.
-- **Enhanced Creativity**: The stylized checkpoint provided a broader range of artistic interpretations while still retaining the core features of my face.
+Le projet a permis de créer des images fidèles comme des rendus plus artistiques tout en tirant parti d'un entraînement externe. La LoRA s'est révélée performante sur les deux checkpoints, montrant le potentiel de FLUX pour la génération d'images personnelles.
 
 ---
 
@@ -82,19 +77,13 @@ The project demonstrated the capabilities of FLUX in both realistic and stylized
 
 ---
 
-## Closing Thoughts
+## Conclusion
 
-This project highlights the potential of FLUX as a powerful open-source model for personal image generation. By training a LoRA with 25 captioned photos of myself, I was able to achieve both realistic and creative outputs. The process also demonstrated the effectiveness of leveraging external training resources like Civit AI while managing model execution locally using ComfyUI. This project not only showcased technical skills but also the ability to overcome hardware limitations through resourceful problem-solving.
+Ce projet met en lumière le potentiel de FLUX pour la génération d'images personnelles. En entraînant une LoRA sur 25 photos légendées, j'ai obtenu des rendus à la fois réalistes et créatifs. L'utilisation de ressources externes comme Civit AI, combinée à une exécution locale via ComfyUI, prouve qu'il est possible de contourner les limites matérielles.
 
 ---
 
-Interested in learning more about this project or collaborating? [Contact me](/contact) or explore [more of my projects](/portfolio/).
-
-<style>
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
+Pour en savoir plus ou envisager une collaboration, [contactez-moi](/fr/contact) ou découvrez [mes autres projets](/fr/portfolio/).
 }
 
 .gallery a {

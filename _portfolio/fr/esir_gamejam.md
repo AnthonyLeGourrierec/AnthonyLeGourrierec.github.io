@@ -13,39 +13,39 @@ image: "/images/apagnan/cover.png"
 hidden: false
 ---
 
-## Overview
+## Aperçu
 
-**The Last Apagnan** is a game created in 48 hours for the ESIR 2024 Game Jam with the theme "Choose your end." It was the **winning game** of the event, showcasing the team’s creativity and technical skills under pressure.
+**The Last Apagnan** est un jeu réalisé en 48 heures lors de la Game Jam ESIR 2024 sur le thème « Choose your end ». Il a remporté l'événement en mettant en avant la créativité et les compétences techniques de l'équipe malgré la pression du temps.
 
-In this game, you play as a druid in search of the last Apagnan. Venturing into the ruins of an ancient civilization, you are armed with a deck of magic cards to help you on your quest. The game was a collaborative project between four friends with various skills in development, art, and sound design.
+Vous incarnez un druide à la recherche du dernier Apagnan. Armé d'un paquet de cartes magiques, vous explorez les ruines d'une ancienne civilisation. Le jeu est né de la collaboration de quatre amis aux talents variés en développement, en art et en design sonore.
 
-**Key Skills Demonstrated:**
+**Compétences mises en avant :**
 
-- **Game Development**: Created a fully functional game using Unity within a 48-hour deadline.
-- **Project Management**: Managed the project timeline, organized tasks, and ensured seamless collaboration.
-- **Team Collaboration**: Coordinated with developers, artists, and sound designers to successfully bring the game to life.
+- **Développement de jeu** : réalisation d'un prototype complet sous Unity en 48 heures ;
+- **Gestion de projet** : suivi du planning et répartition des tâches ;
+- **Travail d'équipe** : coordination entre code, graphisme et son.
 
-**Technologies Used:** Unity, FL Studio, Procreate, GitHub, Google Drive
+**Technologies utilisées :** Unity, FL Studio, Procreate, GitHub, Google Drive
 
 ---
 
-## Project Highlights
+## Points forts du projet
 
-### Key Features
+### Principales mécaniques
 
-- **2.5D Puzzle Gameplay**: A unique combination of 2D and 3D elements, created to challenge both the developers and the players.
-- **Magic Card Mechanics**: Players use a deck of magic cards to interact with the environment and solve puzzles.
-- **Handcrafted Assets**: Every game asset, except for the font, was created from scratch, contributing to the unique feel of the game.
+- **Gameplay puzzle 2,5D** : mélange de 2D et de 3D pour un défi technique et ludique ;
+- **Cartes magiques** : utilisation d'un deck pour interagir avec l'environnement et résoudre les énigmes ;
+- **Assets faits maison** : tous les éléments, à l'exception de la police, ont été créés spécialement.
 
-### Achievements
+### Réalisations
 
-- **Winner of ESIR 2024 Game Jam**: The game was awarded first place in the game jam, showcasing the team's ability to deliver a polished and creative project within the time limit.
-- **Collaborative Success**: The team executed a well-coordinated process from brainstorming to final presentation, resulting in a well rounded project.
-- **Creative Challenge**: The team chose a 2.5D format as a challenge, despite the group’s prior experience being limited to either 2D or 3D.
+- **Victoire à la Game Jam 2024** : preuve de notre capacité à livrer un jeu abouti en un temps record ;
+- **Travail collectif réussi** : organisation fluide de la phase d'idéation à la présentation finale ;
+- **Défi créatif** : choix délibéré du format 2,5D malgré une expérience limitée.
 
-### Results
+### Résultats
 
-The final game, **The Last Apagnan**, won the ESIR 2024 Game Jam, demonstrating the team's skill in rapid game development and creative problem-solving. The 2.5D design and handcrafted assets, along with the unique card mechanics, helped the game stand out from the competition.
+Le jeu final a remporté la Game Jam ESIR 2024, mettant en avant notre maîtrise du développement rapide et notre sens créatif. Le design 2,5D et les assets sur mesure, associés au système de cartes, ont permis de se démarquer des autres projets.
 
 You can play the game here:  
 [Play The Last Apagnan](https://althior.itch.io/the-last-apagnan)
@@ -83,13 +83,13 @@ This project was a collaborative effort between a group of friends, each contrib
 
 ---
 
-## Closing Thoughts
+## Pour conclure
 
-**The Last Apagnan** was a huge success, winning the ESIR 2024 Game Jam. The project demonstrated the team’s ability to come together, brainstorm effectively, and execute a polished prototype under tight time constraints. The team's choice to work with 2.5D mechanics pushed the boundaries of their previous experience, making the win even more rewarding.
+**The Last Apagnan** a remporté la Game Jam ESIR 2024. Ce résultat souligne notre capacité à unir nos idées et à proposer un prototype abouti malgré le temps imparti. L'utilisation du 2,5D a repoussé nos habitudes et rendu la victoire encore plus savoureuse.
 
 ---
 
-Interested in learning more about this project or collaborating on a future game? [Contact me](/contact) or explore [more of my projects](/portfolio/).
+Envie d'en savoir plus ou de collaborer sur un prochain jeu ? [Contactez-moi](/fr/contact) ou parcourez [mes autres projets](/fr/portfolio/)
 
 <style>
 .gallery {

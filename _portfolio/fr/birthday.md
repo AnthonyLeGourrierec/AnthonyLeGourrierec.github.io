@@ -13,46 +13,46 @@ technologies: [Stable Diffusion, LoRA, Kohya ss, Automatic1111 WebUI]  # Technol
 hidden: false
 ---
 
-## Overview
+## Aperçu
 
-For this project, I utilized AI to create a unique birthday gift: personalized digital paintings that reflect a friend's style and essence. By training a **LoRA (Low-Rank Adaptation)** model with **Stable Diffusion 1.5**, I generated a series of bespoke artworks that captured the subject's likeness with creative flair.
+Pour ce projet, j'ai utilisé l'IA afin de réaliser un cadeau d'anniversaire original : des peintures numériques personnalisées reflétant le style et la personnalité d'une amie. En entraînant un modèle **LoRA** sur **Stable Diffusion 1.5**, j'ai pu générer plusieurs œuvres sur mesure reproduisant fidèlement son apparence.
 
-**Key Skills Demonstrated:**
+**Compétences mises en œuvre :**
 
-- **AI Model Training**: Developed and fine-tuned a LoRA model using limited data.
-- **Prompt Engineering**: Crafted effective prompts to guide the AI's creative output.
-- **Data Preprocessing**: Managed data preparation to optimize model performance.
+- **Entraînement de modèle IA** : conception et ajustement d'un modèle LoRA à partir d'un jeu de données restreint ;
+- **Prompt engineering** : rédaction de prompts efficaces pour orienter la création ;
+- **Préparation des données** : nettoyage et organisation pour de meilleures performances.
 
-**Technologies Used:** Stable Diffusion, LoRA, Kohya ss, Automatic1111 WebUI
+**Technologies utilisées :** Stable Diffusion, LoRA, Kohya ss, Automatic1111 WebUI
 
 ---
 
-## Project Highlights
+## Points forts du projet
 
-### Key Features
+### Principales caractéristiques
 
-- **Custom AI Model**: Trained a LoRA model specifically to generate personalized digital art.
-- **Advanced Prompt Engineering**: Used prompt engineering techniques to achieve high-quality outputs.
-- **Efficient Data Utilization**: Managed to produce consistent character representations from a small dataset.
+- **Modèle IA sur mesure** : entraînement d'un modèle LoRA dédié à la création de portraits personnalisés;
+- **Prompt engineering avancé** : usage de techniques poussées pour des résultats de haute qualité;
+- **Exploitation optimisée des données** : obtention de rendus cohérents malgré un jeu de données réduit.
 
-### Achievements
+### Réalisations
 
-- **High-Quality Outputs**: Generated digital paintings that accurately reflected the subject's appearance and style.
-- **Creative AI Use**: Leveraged AI for a creative, personal application, demonstrating the flexibility of machine learning models.
-- **Successful Project Delivery**: Completed the project within a tight timeframe, providing a unique, thoughtful gift.
+- **Rendus de qualité** : portraits fidèles au style et à l'apparence du sujet;
+- **Usage créatif de l'IA** : démonstration de la flexibilité des modèles pour un projet personnel;
+- **Livraison rapide** : projet mené à bien dans un délai court pour offrir un cadeau unique.
 
-### Results
+### Résultats
 
-The project successfully resulted in a series of digital paintings that were well-received as a personalized birthday gift. The images demonstrated both the technical capabilities of the model and the creative potential of AI in digital art.
+Le projet a permis de réaliser plusieurs peintures numériques, très appréciées en tant que cadeau personnalisé. Les images montrent autant la maîtrise technique du modèle que la créativité rendue possible par l'IA.
 
 ![Result Visualization 1](/images/birthday/generated1.jpg)  
 ![Result Visualization 2](/images/birthday/generated2.jpg)
 
 ---
 
-## AI-Generated Image Gallery
+## Galerie d'images générées par IA
 
-Below is a gallery showcasing the AI-generated digital paintings created using the LoRA model trained on Stable Diffusion 1.5. These artworks illustrate the model's ability to produce a variety of artistic interpretations while maintaining a consistent portrayal of the subject.
+Galerie présentant les peintures numériques réalisées grâce au modèle LoRA entraîné avec Stable Diffusion 1.5. Elle illustre la capacité du modèle à proposer différentes interprétations tout en conservant la ressemblance avec le sujet.
 
 <div class="gallery">
   <a href="/images/birthday/generated1.jpg">
@@ -116,7 +116,7 @@ Below is a gallery showcasing the AI-generated digital paintings created using t
 
 ## Conclusion
 
-This AI project combined technical expertise with creative exploration, resulting in a unique set of digital paintings. The experience highlighted the creative potential of AI when applied thoughtfully, demonstrating the power of technology to enhance personal expressions and art forms.
+Ce projet mêle compétences techniques et démarche créative pour aboutir à une série de peintures numériques uniques. Il illustre le potentiel de l'IA lorsqu'elle est utilisée avec discernement pour enrichir l'expression artistique.
 
-If you're interested in similar projects or would like to collaborate, feel free to [contact me](/contact) or explore [more of my projects](/portfolio/).
+Si vous êtes intéressé par des projets similaires ou souhaitez collaborer, [contactez-moi](/fr/contact) ou consultez [mes autres réalisations](/fr/portfolio/).
 

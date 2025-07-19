@@ -13,39 +13,39 @@ image: /images/IA_creatures/pikachu.png
 hidden: false
 ---
 
-## Overview
+## Aperçu
 
-This project’s main goal was to create AI-driven workflows capable of generating images blending real-world animals and creating realistic Pokémon, all while perfecting the composition. The initial phase focused on developing workflows that blended two different animals, and in later stages, the process evolved to generating realistic versions of Pokémon, finally working on the compositional aspects to include 2 subjects in the generation.
+L'objectif de ce projet était de développer des workflows IA capables de mêler deux animaux réels puis de créer des Pokémon crédibles tout en soignant la composition. Après une première phase consacrée aux créatures hybrides, j'ai progressivement abouti à des versions réalistes de Pokémon, jusqu'à intégrer deux sujets dans la même image.
 
-By utilizing **ComfyUI** and its suite of powerful extensions like **IPAdapter**, **Canny Filter**, **Depth Map**, and others, I was able to generate varied outputs — from hybrid animals to life-like Pokémon. The project culminated in 2-subject compositions, combining multiple AI techniques into cohesive workflows.
+Grâce à **ComfyUI** et à divers modules comme **IPAdapter**, **Canny Filter** ou **Depth Map**, j'ai pu générer des résultats variés allant des animaux hybrides aux Pokémon photoréalistes. Le travail s'est terminé par des compositions à deux sujets combinant plusieurs techniques d'IA.
 
-**Key Skills Demonstrated:**
+**Compétences clés :**
 
-- **AI Workflow Development**: Created a multi-step workflow that blends real animals and generates life-like Pokémon with strong emphasis on compositional balance.
-- **ComfyUI Workflow Optimization**: Fine-tuned workflows within ComfyUI using various tools such as IPAdapter, attention masking for composition, and noise injection.
-- **Stable Diffusion Techniques**: Applied conditioning techniques and visual prompts to create both blended animals and real-world Pokémon with naturalistic elements.
+- **Conception de workflows IA** : élaboration de processus multi-étapes pour fusionner des animaux et générer des Pokémon réalistes en soignant la composition ;
+- **Optimisation sous ComfyUI** : réglage des workflows avec IPAdapter, masquage d'attention ou injection de bruit ;
+- **Techniques Stable Diffusion** : utilisation du conditionnement et de prompts visuels pour des résultats naturels.
 
-**Technologies Used:** ComfyUI, Stable Diffusion, IPAdapter, Canny Filter, Depth Map, Attention Masking
+**Technologies utilisées** : ComfyUI, Stable Diffusion, IPAdapter, Canny Filter, Depth Map, Attention Masking
 
 ---
 
-## Project Highlights
+## Points forts du projet
 
-### Key Features
+### Principales fonctionnalités
 
-- **Animal Blending**: Developed a workflow that blends two real-world animals using AI tools, producing fascinating new hybrid creatures.
-- **Realistic Pokémon**: Reimagined famous Pokémon as if they existed in the real world, with detailed lifelike features and anatomies.
-- **AI-Driven Composition**: Utilized **attention masking** to refine the composition of images, ensuring that key elements like focal points and scene balance were emphasized in the final results.
+- **Fusion d'animaux** : création d'un workflow permettant de mélanger deux animaux réels pour obtenir des créatures inédites ;
+- **Pokémon réalistes** : réinterprétation de Pokémon célèbres avec des caractéristiques proches du réel ;
+- **Composition assistée par IA** : usage du **masquage d'attention** pour mettre en valeur les éléments clés de l'image.
   
-### Achievements
+### Réalisations
 
-- **Versatile Workflows**: Created adaptable workflows that allowed for different outputs — from two-animal blends to "Pokémon in real life" with a focus on composition and realism.
-- **Realistic Pokémon Designs**: Successfully rendered multiple realistic Pokémon using real animal features, paying close attention to their textures and natural environments.
-- **Compositional Mastery**: Through **attention masking**, refined the composition of final images, enhancing visual storytelling and ensuring that Pokémon fit seamlessly into realistic environments.
+- **Workflows polyvalents** : processus adaptables pour créer aussi bien des hybrides que des Pokémon crédibles ;
+- **Designs aboutis** : création de plusieurs Pokémon réalistes en intégrant des éléments d'animaux réels ;
+- **Maîtrise de la composition** : grâce au masquage d'attention, intégration harmonieuse des sujets dans leur environnement.
 
-### Results
+### Résultats
 
-The project generated a variety of outputs, starting with hybrid animal creations and culminating in realistic Pokémon designs. 
+Le projet a permis de produire de nombreux visuels, depuis les premiers mélanges d'animaux jusqu'à des Pokémon réalistes parfaitement intégrés.
 
 ---
 
@@ -95,35 +95,30 @@ Below is a gallery featuring different stages of the project, from hybrid animal
 
 ---
 
-## Techniques and Tools
+## Techniques et outils
 
-To achieve these results, I developed workflows using the following tools within **ComfyUI** and **Stable Diffusion**:
+Pour obtenir ces résultats, j'ai conçu des workflows dans **ComfyUI** et **Stable Diffusion** en m'appuyant sur :
 
-- **IPAdapter**: Primarily used to adjust textures, ensuring that animal textures and Pokémon features appeared natural and highly detailed.
-- **Canny Filter**: Applied edge detection techniques to ensure consistency in the blending of animal features and the accuracy of the Pokémon anatomy.
-- **Depth Map**: Enhanced the three-dimensionality of both hybrid animals and Pokémon, ensuring they felt physically grounded in their environments.
-- **Noise Injection**: Introduced random variation to produce a range of outputs and avoid repetitive patterns.
-- **Attention Masking**: Utilized for fine-tuning compositions, directing the AI’s focus towards specific elements such as key visual focal points, balance, and environmental interaction.
-- **Conditioning Averaging**: Merged conditioning inputs to create balanced outputs that preserved animal realism while adapting Pokémon features into a plausible real-world aesthetic.
+- **IPAdapter** : ajustement des textures pour un rendu naturel ;
+- **Canny Filter** : détection des contours pour un mélange cohérent des éléments ;
+- **Depth Map** : ajout de profondeur afin d'ancrer les sujets dans leur décor ;
+- **Injection de bruit** : variation aléatoire pour diversifier les productions ;
+- **Masquage d'attention** : focalisation de l'IA sur les zones importantes ;
+- **Conditioning Averaging** : fusion des paramètres de génération pour équilibrer réalisme animal et esthétique Pokémon.
 
-By working iteratively through these techniques, I created a flexible workflow capable of generating varied results, from simple animal blends to fully realized, realistic Pokémon designs with advanced compositions.
-
----
-
-## Closing Thoughts
-
-This project illustrates the immense potential of AI in blending imagination and reality. Creating workflows that could generate realistic hybrid animals and Pokémon demonstrates how AI tools can push creative boundaries. The transition from blending animals to realistic Pokémon, focusing on composition with attention masking, added a unique dimension to the work. 
-
-Many of the techniques were inspired by the YouTube channel [Latent Vision](https://www.youtube.com/@latentvision), whose tutorials were pivotal in refining the workflows.
+En itérant sur ces techniques, j'ai mis au point un workflow flexible pouvant aller de simples hybrides à des Pokémon réalistes dotés de compositions avancées.
 
 ---
 
-Interested in learning more about this project or collaborating? [Contact me](/contact) or explore [more of my projects](/portfolio/).
+## Conclusion
 
-<style>
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
+Ce projet montre tout le potentiel de l'IA pour mélanger imagination et réalité. Les workflows conçus permettent de créer des animaux hybrides puis des Pokémon réalistes en travaillant la composition grâce au masquage d'attention.
+
+Beaucoup de techniques proviennent des tutoriels de la chaîne YouTube [Latent Vision](https://www.youtube.com/@latentvision), source d'inspiration majeure.
+
+---
+
+Vous souhaitez en savoir plus ou collaborer ? [Contactez-moi](/fr/contact) ou consultez [le reste de mon portfolio](/fr/portfolio/)
   gap: 10px;
 }
 

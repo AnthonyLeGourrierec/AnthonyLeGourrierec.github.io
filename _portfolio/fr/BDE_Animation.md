@@ -13,51 +13,51 @@ image: /images/BDE/cover.jpg
 hidden: false
 ---
 
-## Overview
+## Aperçu
 
-During my first and second year of engineering school, I took on the responsibility of organizing events as part of the student association. I leveraged these opportunities to create 3D renders and animations to enhance event promotions, trailers, and communications.
+Lors de mes deux premières années d'école d'ingénieur, j'ai participé à l'organisation des événements de l'association étudiante. J'en ai profité pour réaliser des rendus et animations 3D afin de promouvoir les différents rendez-vous.
 
-I produced four distinct 3D animations:
-- **"ESIR à un incroyable talent"**: A talent show held every year.
-- Two editions of **"Question pour un Esirien"**: A quiz-based event.
-- **An animation for the campaign of a student list**, created prior to my position in the association.
+J'ai ainsi produit quatre animations :
+- **« ESIR à un incroyable talent »** : le concours annuel de talents ;
+- deux éditions de **« Question pour un Esirien »**, un quiz ;
+- **une animation de campagne** pour une liste étudiante.
 
-All of these 3D animations were produced using **Blender**.
-
----
-
-## Key Skills Demonstrated
-
-- **3D Modeling & Animation**: Used Blender to create 3D animations for event promotions.
-- **Event Communication**: Supported event marketing and engagement through visual storytelling and animated content.
-- **Creativity Under Pressure**: Delivered 3D renders within tight deadlines leading up to each event.
-
-**Technologies Used:** Blender, 3D Modeling, Animation
+Toutes ces animations ont été réalisées sous **Blender**.
 
 ---
 
-## Project Highlights
+## Compétences mises en avant
 
-### Key Features
+- **Modélisation et animation 3D** : utilisation de Blender pour créer les animations destinées aux événements ;
+- **Communication événementielle** : soutien à la promotion par des visuels attractifs ;
+- **Créativité sous pression** : réalisation rapide de rendus à l'approche des dates clés.
 
-- **Event-Based 3D Animations**: Each animation was tailored to the event, from talent shows to quiz games and student association campaigns.
-- **Multi-Edition Work**: Worked on two editions of "Question pour un Esirien," adapting the 3D renders to each edition.
-- **Blender Mastery**: Developed models and animations entirely in Blender, showcasing a range of 3D modeling and animation techniques.
+**Technologies utilisées :** Blender, modélisation 3D, animation
 
-### Achievements
+---
 
-- **Event Enhancement**: The 3D animations were a hit among participants and boosted engagement for the events.
-- **Valuable Contribution to Event Promotion**: Created 3D renders that were integral to the visual identity of the events, supporting the promotional efforts with engaging and memorable content.
-- **Blender Expertise**: Refined Blender skills through repeated use for varied events, each with its own unique requirements.
+## Points forts du projet
 
-### Results
+### Points clés
 
-The animations I produced for these events significantly contributed to their visibility and promotion. The attendees, as well as the organizers, appreciated the extra visual appeal brought by the 3D elements, which helped make the events more engaging and visually stimulating.
+- **Animations 3D dédiées** : chaque vidéo était pensée pour l'événement, du concours de talents aux quiz étudiants ;
+- **Suivi sur plusieurs éditions** : participation aux deux éditions de « Question pour un Esirien » ;
+- **Maîtrise de Blender** : modélisation et animation entièrement réalisées sur ce logiciel.
 
-Here are the final 3D animations produced for the following events:
-- **ESIR à un incroyable talent** (Talent Show)
-- **Question pour un Esirien** (Quiz Event – Two Editions)
-- **Student List Campaign Animation**
+### Réalisations
+
+- **Mise en valeur des événements** : les animations ont renforcé l'engagement du public ;
+- **Contribution visuelle** : création de contenus marquants pour l'identité graphique des manifestations ;
+- **Expertise Blender** : amélioration continue grâce à la diversité des projets.
+
+### Résultats
+
+Ces animations ont largement contribué à la visibilité des événements et ont été très appréciées par les participants comme par les organisateurs.
+
+Animations réalisées :
+- **ESIR à un incroyable talent** (concours de talents)
+- **Question pour un Esirien** (deux éditions)
+- **Animation de campagne** pour une liste étudiante
 
 ---
 
@@ -95,13 +95,13 @@ Below are the videos showcasing the 3D animations I created for the events. You 
 
 ---
 
-## Closing Thoughts
+## Pour conclure
 
-These 3D renders and animations played a role in elevating the student association events, providing engaging visual content that added depth and professionalism to the promotions. Through this project, I not only improved my skills in Blender but also learned how to use 3D animation as a tool for communication and engagement in a real-world context.
+Ces rendus et animations ont permis de dynamiser les événements associatifs en offrant un support visuel attrayant et professionnel. Ce projet a renforcé ma maîtrise de Blender et montré comment la 3D peut servir la communication.
 
 ---
 
-Interested in learning more about these 3D renders or collaborating on a future project? [Contact me](/contact) or explore [more of my projects](/portfolio/).
+Envie d'en savoir plus ou de collaborer sur un projet futur? [Contactez-moi](/fr/contact) ou explorez [mes autres réalisations](/fr/portfolio/)
 
 <style>
 .gallery {

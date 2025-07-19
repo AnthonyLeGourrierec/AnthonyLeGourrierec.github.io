@@ -13,11 +13,11 @@ technologies: [HTML, CSS, JavaScript, Blender]  # Tools and technologies used
 hidden: false
 ---
 
-## Overview
+## Aperçu
 
-As part of an English class project during engineering school, a friend and I created "Margoulean," a fictional beverage brand. This collaborative effort allowed us to blend our skills—web development for my friend, Marius, and 3D product animation for myself—into a cohesive project. Over a span of 10 hours, we developed a website and a series of 3D animations showcasing the brand.
+Dans le cadre d'un cours d'anglais en école d'ingénieur, un ami et moi avons imaginé « Margoulean », une marque de boisson fictive. Ce projet a combiné nos compétences : développement web pour Marius et animation 3D pour moi. En une dizaine d'heures, nous avons créé un site et plusieurs animations présentant la marque.
 
-Explore the project further:
+Pour en savoir plus sur le projet :
 
 - **[View the Website](https://mariusld.github.io/Margoulean/index.html)**
 - **[GitHub Repository](https://github.com/MariusLD/Margoulean)**
@@ -32,30 +32,30 @@ Explore the project further:
 
 ---
 
-## Project Highlights
+## Points forts du projet
 
-### Key Features
+### Principales caractéristiques
 
-- **Website Design**: Built a functional website for the fictional brand "Margoulean."
-- **3D Animated Product Visuals**: Created engaging 3D animations using Blender.
-- **Creative Collaboration**: Successfully merged web development and 3D animation into a cohesive project.
+- **Conception du site** : réalisation d'un site fonctionnel pour la marque fictive ;
+- **Animations produit 3D** : création de visuels attrayants avec Blender ;
+- **Collaboration créative** : fusion du développement web et de la 3D.
 
-### Achievements
+### Réalisations
 
-- **Integration of Skills**: Combined web development and 3D animation techniques effectively.
-- **Creative Output**: Delivered a unique project that showcased both technical and creative abilities.
-- **Positive Feedback**: Received commendation for creativity and technical execution from peers and instructors.
+- **Compétences combinées** : alliance efficace du web et de la 3D ;
+- **Projet original** : résultat unique mettant en valeur nos savoir-faire ;
+- **Retours positifs** : compliments de nos camarades et enseignants.
 
-### Results
+### Résultats
 
-The project was completed within the 10-hour timeframe, resulting in a functional website and a series of 3D animations that highlighted both our technical skills and creativity. The project added a dynamic piece to our portfolios, demonstrating our ability to deliver under time constraints.
+Projet mené à bien en dix heures seulement : un site fonctionnel et des animations 3D montrant nos compétences techniques et notre créativité, une réalisation dynamique à ajouter à nos portfolios.
 
 ![Margoulean Image 1](/images/margoulean/margoulean.png)  
 ![Margoulean Image 2](/images/margoulean/margoulean7.png)
 
 ---
 
-## Photo and Video Gallery
+## Galerie photo et vidéo
 
 Below is a gallery showcasing images and videos from the Margoulean project. Click on any image to view it in full size.
 
@@ -127,7 +127,7 @@ Below is a gallery showcasing images and videos from the Margoulean project. Cli
 
 ## Conclusion
 
-The "Margoulean" project was a valuable experience, offering a platform to showcase our skills in web development and 3D animation. By working creatively within a constrained timeframe, we were able to produce a finished piece that stands as a testament to our collaborative spirit and technical abilities.
+Le projet « Margoulean » a été une belle opportunité de mettre en avant nos compétences en développement web et en animation 3D. En un temps limité, nous avons su créer une marque cohérente et des visuels attrayants grâce à une bonne collaboration.
 
-If you're interested in seeing more projects or collaborating, please [contact me](/contact) or explore [more of my projects](/portfolio/).
+Si ce projet vous intéresse ou si vous souhaitez collaborer, [contactez-moi](/fr/contact) ou consultez [mes autres réalisations](/fr/portfolio/).
 

@@ -13,58 +13,32 @@ image: /images/industrial_project/koenigFront.png  # Path to the cover image for
 hidden: false  # Add this line to hide the project
 ---
 
-## Overview
+## Aperçu
 
-The project **"Fragments"** was developed as a VR application to enhance the educational value of artifacts in the University of Rennes' collections. The goal was to provide visitors with a contextualized experience by enabling virtual manipulation and immersive interaction with the objects. The project was given to us by the SUPTICE, an entity from the University. The task was to prototype the project as part of the **Industrial Project** in the 3rd year of my engineering program. The objective was to demonstrate what could be achieved with VR. This was accomplished in **5 active development weeks over a span of 12 weeks**, during which I contributed to both technical and creative aspects of the VR application, showcasing the potential of VR technology in education.
+Le projet **« Fragments »** a été développé comme application VR pour mettre en valeur les artefacts de l'Université de Rennes. Son but est d'offrir au visiteur une expérience contextualisée grâce à la manipulation virtuelle des objets. Confié par le SUPTICE dans le cadre du projet industriel de troisième année, il avait pour objectif de démontrer ce que la VR peut apporter à la médiation scientifique. Réalisé sur **cinq semaines effectives réparties sur douze**, j'y ai contribué tant sur le plan technique que créatif.
 
-**Key Skills Demonstrated:**
+**Compétences mises en avant :**
 
-- **3D Modeling**: Created detailed 3D models of real historical objects, such as Koenig's harmonic analyzer, ensuring accuracy and alignment with the original artifacts in the collection.
-- **VR Rig and UI Development**: Designed and implemented a VR rig and user interface to ensure maximum accessibility for users, considering various needs such as mobility and comfort in interaction.
-- **Scene Management**: Responsible for scene transitions, user interactions, and optimizations to ensure the best quality of experience possible.
+- **Modélisation 3D** : reproduction fidèle d'objets historiques comme l'analyseur de Koenig ;
+- **Développement VR et interface** : conception d'un rig et d'une UI accessibles pour tous ;
+- **Gestion des scènes** : transitions, interactions et optimisation pour une expérience fluide.
 
-**Technologies Used:** Unity3D, OpenXR, Blender, GitHub, Discord, Microsoft Teams
+**Technologies utilisées :** Unity3D, OpenXR, Blender, GitHub, Discord, Microsoft Teams
 
----
+### Principales fonctionnalités
 
-## Project Highlights
+- **Modèles 3D précis** : reproduction fidèle d'objets tels que l'analyseur de Koenig ;
+- **Interactions contextualisées** : scripts C# permettant de comprendre l'usage des objets dans leur contexte historique.
 
-### Key Features
+### Réalisations
 
-- **Accessible VR Setup**: Built a user-friendly VR rig and intuitive user interface, enabling users of different backgrounds to easily navigate and interact with the virtual environment.
-- **Accurate 3D Models**: Modeled objects, like the Koenig harmonic analyzer, based on real objects from the collection to provide an authentic educational experience.
-- **Contextual Interactions**: Developed custom C# scripts for VR interactions to help users understand how the objects were used in their historical context, providing deeper educational value and perspective.
+- **Modélisation réaliste** : fidélité aux artefacts tout en préservant les performances VR ;
+- **Impact pédagogique** : démonstration du potentiel éducatif de la VR ;
+- **Gestion des risques** : suivi et coordination via GitHub, Discord et Teams.
 
-### Achievements
+### Résultats
 
-- **Realistic Modeling**: Modeled objects faithfully based on artifacts from the collection, ensuring accuracy while maintaining performance within the VR environment.
-- **Contextual Learning**: Created interactive elements that allow users to grasp how objects were used in their original contexts, enhancing their understanding of history and science.
-- **Inclusive Design**: The VR rig and UI design considered different user needs, including accessibility options to make the experience enjoyable and comfortable for everyone.
-
-### Results
-
-The application allowed users to engage with historical artifacts in an educational, immersive manner. Highlights include:
-
-- **Increased engagement**: Students and visitors had a richer understanding of the objects through direct interaction in VR.
-- **Effective Visual Representation**: Realistic 3D models and immersive soundscapes enhanced the overall learning experience.
-
----
-
-## Visual Gallery
-
-<div class="gallery">
-  <a href="/images/industrial_project/1.png"><img src="/images/industrial_project/1.png" alt="Koenig harmonic analyzer in VR environment"></a>
-  <a href="/images/industrial_project/2.png"><img src="/images/industrial_project/2.png" alt="Virtual scene showing historical artifacts"></a>
-  <a href="/images/industrial_project/3.png"><img src="/images/industrial_project/3.png" alt="Close-up of interactive 3D model"></a>
-  <a href="/images/industrial_project/4.png"><img src="/images/industrial_project/4.png" alt="Detailed VR model of Koenig harmonic analyzer"></a>
-  <a href="/images/industrial_project/5.png"><img src="/images/industrial_project/5.png" alt="User interaction in VR with artifacts"></a>
-</div>
-
----
-
-## Playthrough Video
-
-Watch the full experience of the **"Fragments"** VR application prototype in this playthrough video:
+Le projet a abouti à une expérience immersive permettant une manipulation virtuelle des artefacts et illustrant l'apport de la VR dans la médiation culturelle. L'accent mis sur l'accessibilité et l'optimisation des scènes s'est révélé déterminant.
 
 <div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HafUrZdf9LU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -72,21 +46,13 @@ Watch the full experience of the **"Fragments"** VR application prototype in thi
 
 ---
 
-## Closing Thoughts
+## Pour conclure
 
-This project demonstrates the educational potential of VR, allowing users to engage with university collections in ways not possible in traditional settings. My role in creating 3D models, developing an accessible VR rig, and managing scene transitions and optimization was key to the technical success of the project. The experience also offered valuable lessons in managing risks and project timelines through effective use of project management tools like GitHub, Discord, and Microsoft Teams.
+Ce projet illustre le potentiel pédagogique de la VR en permettant une interaction nouvelle avec les collections universitaires. La modélisation des objets, la mise en place d'un rig accessible et la gestion des scènes ont été essentielles à sa réussite. L'utilisation d'outils comme GitHub, Discord et Teams a facilité le suivi des risques et du planning.
 
 ---
 
-Interested in learning more about this project or collaborating? [Contact me](/contact) or explore [more of my projects](/portfolio/).
-
-<style>
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-
+Pour plus d'informations ou pour envisager une collaboration, [contactez-moi](/fr/contact) ou consultez [mes autres projets](/fr/portfolio/).
 .gallery a {
   flex: 1 1 calc(33% - 10px);
   box-sizing: border-box;

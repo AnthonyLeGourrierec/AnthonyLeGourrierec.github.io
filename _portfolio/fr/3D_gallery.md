@@ -11,17 +11,17 @@ image: "/images/3D_renders/1.png"  # Path to your cover image
 hidden: false
 ---
 
-## Overview
+## Aperçu
 
-My journey into 3D started around 15 years ago with **Cinema 4D** on my family’s computer. Back then, I mainly recreated YouTube intro tutorials, but I don't have any renders from that period. After taking a long break, I got back into 3D modeling in high school then switched to **Blender**, learning the fundamentals of modeling, shading, lighting, UV mapping, and texturing through tutorials and online courses. These skills have proven invaluable in group projects during engineering school, where I often created assets for **Unity** projects and experiments.
+J'ai commencé la 3D il y a environ quinze ans avec **Cinema 4D** sur l'ordinateur familial. Après une longue pause, j'ai repris au lycée en me tournant vers **Blender** où j'ai appris la modélisation, le texturing et l'éclairage grâce à de nombreux tutoriels. Ces compétences se sont révélées très utiles dans mes projets d'école d'ingénieur, notamment pour créer des assets destinés à **Unity**.
 
-This gallery showcases a collection of 3D renders, spanning from my early high school projects to recent work, and highlights my progression in 3D skills over the years.
+Cette galerie regroupe des rendus allant de mes premières réalisations lycéennes aux travaux les plus récents et illustre ainsi ma progression.
 
 ---
 
-## 3D Render Gallery
+## Galerie de rendus 3D
 
-Below is a selection of my 3D renders. Click on any image or video to view it in full size.
+Vous trouverez ci-dessous une sélection de mes rendus 3D. Cliquez sur une image ou une vidéo pour l'afficher en grand.
 
 <div class="gallery">
   <!-- First Image (Full Width) -->
@@ -104,23 +104,23 @@ Below is a selection of my 3D renders. Click on any image or video to view it in
 
 ---
 
-## Equipment and Techniques
+## Équipement et techniques
 
-Throughout my 3D journey, I’ve worked with various tools and techniques to bring my ideas to life:
+Au fil des années, j'ai utilisé de nombreux outils pour donner vie à mes idées :
 
-- **Software**: Blender, Cinema 4D
-- **Techniques**: Modeling, Shading, Lighting, UV Mapping, Texturing
-- **Skills**: Fast asset creation for game development, mainly low-poly models.
+- **Logiciels** : Blender, Cinema 4D
+- **Techniques** : modélisation, shading, éclairage, UV mapping, texturing
+- **Compétences** : création rapide d'assets pour le jeu vidéo, principalement en low poly.
 
-I continue to refine my skills by applying them in diverse contexts, from personal projects to collaborative work in my engineering studies.
+Je continue à perfectionner ces savoir-faire au travers de projets personnels et de collaborations durant mes études d'ingénieur.
 
 ---
 
 ## Conclusion
 
-This gallery represents my evolution as a 3D artist, from learning basic tools in high school to applying my skills in more complex environments. 3D modeling has been an integral part of my personal and professional growth, helping me contribute creatively to projects and develop an eye for detail and design.
+Cette galerie retrace mon évolution en tant qu'artiste 3D, depuis l'apprentissage des bases au lycée jusqu'à l'utilisation de techniques plus avancées. La modélisation 3D a joué un rôle essentiel dans mon développement, me permettant d'affiner mon sens du détail et du design.
 
-If you'd like to see more of my 3D renders or discuss potential collaborations, feel free to [contact me](/contact) or explore [more of my portfolio](/portfolio/).
+Si vous souhaitez découvrir davantage de rendus ou discuter d'une collaboration, n'hésitez pas à [me contacter](/fr/contact) ou à parcourir [le reste de mon portfolio](/fr/portfolio/).
 
 <style>
 .gallery {

@@ -11,13 +11,13 @@ image: "/images/macro/IMG_8615.jpg"  # Path to your cover image
 hidden: false
 ---
 
-## Overview
+## Aperçu
 
-Welcome to my macro photography gallery, where I explore the intricate details of the natural world. In a fast-paced world where we often overlook the beauty around us, macro photography allows me to slow down and appreciate the small wonders that are easily missed. This collection features some of my favorite shots, with the hope that it inspires you to pause, observe, and discover the hidden beauty in the little details that surround us every day.
+Bienvenue dans ma galerie de macrophotographie où j'explore les moindres détails du monde naturel. Dans un quotidien souvent effréné, cette pratique me pousse à ralentir et à apprécier ces petites merveilles que l'on ignore facilement. Cette sélection de clichés fait partie de mes préférés et j'espère qu'elle vous donnera envie de vous arrêter un instant pour observer la beauté cachée qui nous entoure.
 
 ---
 
-## Photography Gallery
+## Galerie photo
 
 Below is a selection of my macro photography work. Click on any image to view it in full size.
 
@@ -103,24 +103,24 @@ Below is a selection of my macro photography work. Click on any image to view it
 
 ---
 
-## Equipment and Techniques
+## Matériel et techniques
 
-For my macro photography, I use a combination of specialized equipment and techniques to capture the intricate details of small subjects:
+Pour réaliser ces images, j'utilise un matériel dédié :
 
-- **Camera**: [Canon EOS M50 Mark II]
-- **Lens**: [Laowa 65mm F2.8 2x Ultra Macro APO / Canon EF-M 15-45mm f/3.5-6.3 + 10-16mm extension tubes]
-- **Flash**: [Meike Speedlite MK320]
-- **Techniques**: One shot, Focus stacking, Handheld photography.
+- **Appareil** : Canon EOS M50 Mark II
+- **Objectif** : Laowa 65mm F2.8 2× Ultra Macro APO ou EF‑M 15‑45mm avec bagues allonge 10‑16 mm
+- **Flash** : Meike Speedlite MK320
+- **Techniques** : prise unique, focus stacking, photos à main levée.
 
-Macro photography often involves a lot of patience and attention to detail, as the focus and depth of field can be tricky when working with such small subjects.
+La macrophotographie demande beaucoup de patience et une mise au point précise, la profondeur de champ étant très réduite à ces échelles.
 
 ---
 
 ## Conclusion
 
-This gallery represents my journey into the world of macro photography, where I aim to capture the tiny details that often go unnoticed. I hope these images inspire you to look closer and appreciate the intricate beauty around us.
+Cette galerie témoigne de mon exploration du monde à petite échelle. J'espère qu'elle vous incitera à regarder de plus près et à apprécier la finesse qui nous entoure.
 
-If you'd like to see more of my work or get in touch, feel free to [contact me](/contact) or explore [more of my portfolio](/portfolio/).
+Pour découvrir d'autres photos ou me contacter, n'hésitez pas à [m'écrire](/fr/contact) ou à parcourir [le reste de mon portfolio](/fr/portfolio/).
 
 <style>
 .gallery {
