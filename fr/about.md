@@ -1,25 +1,25 @@
 ---
 permalink: /fr/
 lang: fr
-title: "About me"
+title: "À propos de moi"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hello, I'm Anthony Le Gourriérec, a computer science engineer specializing in digital imaging, and a PhD student working on the *Perception and Representation of Urban Night Ambiances in Extended Reality (XR)* since June 2025.
+Bonjour, je suis Anthony Le Gourriérec, ingénieur en informatique spécialisé dans l'imagerie numérique et doctorant depuis juin 2025 sur la *Perception et la Représentation des Ambiances Nocturnes Urbaines en Réalité Étendue (XR)*.
 
-This CIFRE-funded doctoral thesis is conducted in collaboration with:
+Cette thèse CIFRE est menée en collaboration avec :
 
-- **L’Observatoire de la Nuit**, a consultancy specialized in night-time ambiances and light sobriety,
-- **Centrale Nantes**, within the *Ambiances, Architectures, Urbanités (AAU)* research laboratory, as part of the *CRENAU* (Centre de Recherche Nantais Architectures Urbanités) team,
-- and **IMT Atlantique**, within the *Lab-STICC* (Sciences et Techniques de l’Information, de la Communication et de la Connaissance), as part of the *INUIT* (Immersive Natural User Interaction) team.
+- **L’Observatoire de la Nuit**, un bureau d'études spécialisé dans les ambiances nocturnes et la sobriété lumineuse,
+- **Centrale Nantes**, au sein du laboratoire de recherche *Ambiances, Architectures, Urbanités (AAU)*, équipe *CRENAU* (Centre de Recherche Nantais Architectures Urbanités),
+- et **IMT Atlantique**, au *Lab-STICC* (Sciences et Techniques de l’Information, de la Communication et de la Connaissance), équipe *INUIT* (Immersive Natural User Interaction).
 
-My work focuses on developing immersive tools using augmented and virtual reality to simulate and evaluate urban lighting scenarios, with the goal of improving the perceptual understanding of night-time ambiances, supporting sustainable lighting strategies, and raising awareness about light pollution through interactive and site-specific visualizations.
+Mon travail consiste à développer des outils immersifs utilisant la réalité augmentée et virtuelle pour simuler et évaluer des scénarios d'éclairage urbain, afin d'améliorer la compréhension perceptive des ambiances nocturnes, d'accompagner des stratégies d'éclairage durable et de sensibiliser à la pollution lumineuse au moyen de visualisations interactives et contextualisées.
 
-My passion for digital imaging began over 15 years ago, sparked by watching YouTube tutorials and experimenting with 3D animation and photo montage on my family’s computer. Over time, this curiosity evolved into a deep interest in immersive technologies, computational imaging, and photography; blending technical precision with visual creativity.
+Ma passion pour l'imagerie numérique a débuté il y a plus de 15 ans, en regardant des tutoriels YouTube et en expérimentant l'animation 3D et le photomontage sur l'ordinateur familial. Avec le temps, cette curiosité s'est transformée en un intérêt profond pour les technologies immersives, l'imagerie numérique et la photographie, mêlant précision technique et créativité visuelle.
 
-This passion guided me through my engineering studies and early research projects, including internships where I developed XR prototypes and contributed to two patents on 3D scene adaptation. Today, it continues to drive my doctoral work on the perception of night-time urban lighting in XR, a subject where digital imaging becomes a tool not only for simulation, but also for cultural and environmental understanding.
+Cette passion m'a accompagné durant mes études d'ingénieur et mes premiers projets de recherche, notamment lors de stages où j'ai développé des prototypes XR et contribué à deux brevets sur l'adaptation de scènes 3D. Aujourd'hui, elle nourrit toujours mon travail doctoral sur la perception de l'éclairage urbain nocturne en XR, où l'imagerie numérique devient un outil non seulement de simulation, mais aussi de compréhension culturelle et environnementale.
 
-If you’re intrigued by my profile, feel free to explore my [resume](/cv/) and [projects](/portfolio/). I'm always open to new opportunities and connections, so don't hesitate to reach out via the [contact page](/contact), via [LinkedIn](https://www.linkedin.com/in/anthonylegourrierec) or directly via [email](mailto:anthonylegourrierec@gmail.com). I look forward to hearing from you!
+Si mon profil vous intrigue, n'hésitez pas à consulter mon [CV](/cv/) et mes [projets](/portfolio/). Je suis toujours ouvert à de nouvelles opportunités et collaborations ; contactez-moi via la [page de contact](/contact), sur [LinkedIn](https://www.linkedin.com/in/anthonylegourrierec) ou directement par [email](mailto:anthonylegourrierec@gmail.com). Au plaisir d'échanger avec vous !
