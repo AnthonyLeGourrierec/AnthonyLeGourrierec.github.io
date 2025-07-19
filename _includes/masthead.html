@@ -17,8 +17,8 @@
           {% endfor %}
           <li class="masthead__menu-item">
             <select id="lang-switcher" onchange="window.location.href=this.value">
-              <option value="{{ base_path }}{{ page.url | remove_first: '/fr' }}" {% if page.lang == 'en' %}selected{% endif %}>🇬🇧 English</option>
-              <option value="{{ base_path }}/fr{{ page.url | remove_first: '/fr' }}" {% if page.lang == 'fr' %}selected{% endif %}>🇫🇷 Français</option>
+              <option value="{{ base_path }}{{ page.url | remove_first: '/fr' }}" {% if page.lang == 'en' %}selected{% endif %}>🇬🇧</option>
+              <option value="{{ base_path }}/fr{{ page.url | remove_first: '/fr' }}" {% if page.lang == 'fr' %}selected{% endif %}>🇫🇷</option>
             </select>
           </li>
         </ul>
