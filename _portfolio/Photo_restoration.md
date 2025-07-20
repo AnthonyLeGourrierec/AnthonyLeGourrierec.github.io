@@ -10,9 +10,7 @@ image: /images/Photo_restoration/after/img760_RealESRGAN_x2_00001_.png
 hidden: true
 ---
 
-## Overview
-
-This project showcases the restoration of old family photos using various image enhancement techniques. Move the slider on each picture to compare the original scan with the restored version.
+# Restoration photos Le Gourriérec
 
 <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
 <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.js" defer></script>
