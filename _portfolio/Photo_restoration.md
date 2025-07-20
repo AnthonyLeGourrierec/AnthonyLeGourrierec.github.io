@@ -14,7 +14,7 @@ hidden: false
 This project showcases the restoration of old family photos using various image enhancement techniques. Move the slider on each picture to compare the original scan with the restored version.
 
 <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
-<script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.js"></script>
+<script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.js" defer></script>
 
 <div class="restoration-gallery">
 {% assign before_images = site.static_files | where_exp: "file", "file.path contains '/images/Photo_restoration/before'" | sort: "path" %}
@@ -39,5 +39,10 @@ This project showcases the restoration of old family photos using various image 
   width: 100%;
   max-width: 800px;
   margin: 0 auto;
+}
+
+.juxtapose img {
+  width: 100%;
+  height: auto;
 }
 </style>
