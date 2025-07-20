@@ -1,12 +1,13 @@
 ---
-layout: single
+layout: minimal
+permalink: /family/photo-restoration/
 title: "Photo Restoration"
 excerpt: "Comparing original photos with colorized and enhanced versions."
 collection: portfolio
 date: 2024-07-20
 tags: [Image Restoration, Photo Editing, Portfolio]
 image: /images/Photo_restoration/after/img760_RealESRGAN_x2_00001_.png
-hidden: false
+hidden: true
 ---
 
 ## Overview
