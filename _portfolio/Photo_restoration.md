@@ -1,17 +1,16 @@
 ---
-layout: single
+layout: minimal
+permalink: /family/photo-restoration/
 title: "Photo Restoration"
 excerpt: "Comparing original photos with colorized and enhanced versions."
 collection: portfolio
 date: 2024-07-20
 tags: [Image Restoration, Photo Editing, Portfolio]
 image: /images/Photo_restoration/after/img760_RealESRGAN_x2_00001_.png
-hidden: false
+hidden: true
 ---
 
-## Overview
-
-This project showcases the restoration of old family photos using various image enhancement techniques. Move the slider on each picture to compare the original scan with the restored version.
+# Restoration photos Le Gourriérec
 
 <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
 <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.js" defer></script>
