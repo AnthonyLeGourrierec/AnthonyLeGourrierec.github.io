@@ -22,8 +22,8 @@ This project showcases the restoration of old family photos using various image 
 {% for before in before_images %}
   {% assign after = after_images[forloop.index0] %}
   <div class="juxtapose" data-startingposition="50%" data-showlabels="true" data-showcredits="false">
-    <img src="{{ '/' | append: before.path }}" alt="Before {{ before.name }}" />
-    <img src="{{ '/' | append: after.path }}" alt="After {{ after.name }}" />
+    <img src="{{ before.path | relative_url }}" alt="Before {{ before.name }}" />
+    <img src="{{ after.path | relative_url }}" alt="After {{ after.name }}" />
   </div>
 {% endfor %}
 </div>
