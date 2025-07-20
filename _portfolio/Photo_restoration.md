@@ -17,8 +17,8 @@ This project showcases the restoration of old family photos using various image 
 <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.js"></script>
 
 <div class="restoration-gallery">
-{% assign before_images = site.static_files | where_exp: "file", "file.path contains 'images/Photo_restoration/before'" | sort: 'path' %}
-{% assign after_images = site.static_files | where_exp: "file", "file.path contains 'images/Photo_restoration/after'" | sort: 'path' %}
+{% assign before_images = site.static_files | where_exp: "file", "file.path contains 'images/Photo_restoration/before/'" | sort: 'path' %}
+{% assign after_images = site.static_files | where_exp: "file", "file.path contains 'images/Photo_restoration/after/'" | sort: 'path' %}
 {% for before in before_images %}
   {% assign after = after_images[forloop.index0] %}
   <div class="juxtapose" data-startingposition="50%" data-showlabels="true" data-showcredits="false">
